@@ -1,0 +1,61 @@
+2023-05-23 22:05:32 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:273 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:442 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:304 INFO  DashboardPage :23 - Get Dashboard Text
+2023-05-23 22:05:591 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:905 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:48 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:688 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:03 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:131 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:969 INFO  LoginPage :73 - Click On Profile Logo
+2023-05-23 22:05:437 INFO  LoginPage :77 - Click On LogOut
+2023-05-23 22:05:326 INFO  LoginPage :83 - Get Login Text
+2023-05-23 22:05:638 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:956 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:110 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:984 INFO  HomePage :24 - Click On Admin Tab
+2023-05-23 22:05:105 INFO  AdminPage :34 - Get System User Text
+2023-05-23 22:05:561 INFO  AdminPage :38 - Click On add Button
+2023-05-23 22:05:12 INFO  AdminPage :42 - Get Add User Text
+2023-05-23 22:05:710 INFO  AddUserPage :83 - Enter username johnsmith1234567 to User Name field johnsmith1234567
+2023-05-23 22:05:814 INFO  AddUserPage :89 - Click on Search Text
+2023-05-23 22:05:872 INFO  AddUserPage :94 - Click on Disable
+2023-05-23 22:05:919 INFO  AddUserPage :100 - Enter password John@1234 to password field John@1234
+2023-05-23 22:05:994 INFO  AddUserPage :105 - Enter Confirm password John@1234 to confirm password field John@1234
+2023-05-23 22:05:83 INFO  AddUserPage :111 - Click on save Button
+2023-05-23 22:05:141 INFO  AddUserPage :123 - Get Successfully Message
+2023-05-23 22:05:263 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:703 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:890 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:962 INFO  HomePage :24 - Click On Admin Tab
+2023-05-23 22:05:492 INFO  AdminPage :34 - Get System User Text
+2023-05-23 22:05:720 INFO  ViewSystemUsersPage :64 - Enter username johnsmith1234567 to User Name field johnsmith1234567
+2023-05-23 22:05:811 INFO  AddUserPage :89 - Click on Search Text
+2023-05-23 22:05:870 INFO  AddUserPage :94 - Click on Disable
+2023-05-23 22:05:936 INFO  ViewSystemUsersPage :79 - Clicking on Search Button 
+2023-05-23 22:05:68 INFO  ViewSystemUsersPage :84 - Get Text From List Text 
+2023-05-23 22:05:930 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:232 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:371 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:232 INFO  HomePage :24 - Click On Admin Tab
+2023-05-23 22:05:628 INFO  AdminPage :34 - Get System User Text
+2023-05-23 22:05:956 INFO  ViewSystemUsersPage :64 - Enter username johnsmith1234567 to User Name field johnsmith1234567
+2023-05-23 22:05:59 INFO  AddUserPage :89 - Click on Search Text
+2023-05-23 22:05:123 INFO  AddUserPage :94 - Click on Disable
+2023-05-23 22:05:265 INFO  ViewSystemUsersPage :79 - Clicking on Search Button 
+2023-05-23 22:05:334 INFO  ViewSystemUsersPage :84 - Get Text From List Text 
+2023-05-23 22:05:355 INFO  ViewSystemUsersPage :89 - Click On Check Box
+2023-05-23 22:05:400 INFO  ViewSystemUsersPage :94 - Click On delete Button
+2023-05-23 22:05:464 INFO  ViewSystemUsersPage :99 - Click On Yes delete Button
+2023-05-23 22:05:618 INFO  ViewSystemUsersPage :104 - Get Text Delete from Delete Text
+2023-05-23 22:05:497 INFO  LoginPage :51 - Enter username Admin to User Name field Admin
+2023-05-23 22:05:794 INFO  LoginPage :56 - Enter Password admin123 to Password field admin123
+2023-05-23 22:05:961 INFO  LoginPage :61 - Click On Login Button
+2023-05-23 22:05:953 INFO  HomePage :24 - Click On Admin Tab
+2023-05-23 22:05:278 INFO  AdminPage :34 - Get System User Text
+2023-05-23 22:05:588 INFO  ViewSystemUsersPage :64 - Enter username johnsmith1234567 to User Name field johnsmith1234567
+2023-05-23 22:05:682 INFO  AddUserPage :89 - Click on Search Text
+2023-05-23 22:05:754 INFO  AddUserPage :94 - Click on Disable
+2023-05-23 22:05:855 INFO  ViewSystemUsersPage :79 - Clicking on Search Button 
+2023-05-23 22:05:912 INFO  ViewSystemUsersPage :109 - Get No Record Found Text
